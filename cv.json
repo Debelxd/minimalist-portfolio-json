@@ -1,0 +1,182 @@
+
+{
+    "basics": {
+    "name": "Pedro Debel",
+    "label": "Estudiante de Informática",
+    "image": "img.jpg",
+    "email": "debelxd26@gmail.com",
+    "phone": "+584123768881",
+    "url": "https://",
+    "summary": "Me considero una persona proactiva, con capacidad de trabajo en equipo y con habilidades de comunicación. Me apasiona la tecnología y la programación, por lo que siempre estoy en constante aprendizaje y formar parte de una organización, que crea en el talento y en el compromiso laborar, en donde poner a prueba mis capacidad y retribuir con éxito a fe depositada en mi persona..",
+    "location": {
+      "address": "",
+      "postalCode": "4005",
+      "city": "Urb. Cumbres de Maracaibo",
+      "countryCode": "ES",
+      "region": "Venezuela"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Debelxd.dev",
+        "url": "https://github.com/Debelxd"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": null,
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Universidad Politécnica Territorial de maracaibo",
+    "url": "https://iutm.edu.ve/",
+    "area": "Informática",
+    "startDate": "2024-08-13",
+    "endDate": "2030-02-01"
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "keywords": [
+        "Desarrollo Web", "Estilos", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Php",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Json",
+      "keywords": [
+        "JavaScript Object Notation", "Intercambio de datos", "APIS"
+      ]
+    },
+    { 
+      "name": "JQuery",
+      "keywords": [
+        "Framework JavaScript", "Ajax", "Manipulación del DOM"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "WordPress",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Figma",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "VSCode",
+      "keywords": [
+        "Desarrollo Web", "Editor de código", "Productividad", "Herramientas de desarrollo"
+      ]
+    },
+    {
+      "name": "Git",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    }
+    
+  ],
+  "competences": [
+    {
+      "name": "Software",
+      "area": "Adobe Photoshop | Adobe Illustrator | Adobe Dreamweaver | DaVinci Resolve | Blender | Microsoft Office (Excel, PowerPoint, Word)",
+      "keywords": [
+        "Edición de fotos", "Edición de código", "Edición de video", "Edición de imágenes", "Diseño gráfico", "Modelado 3D", "Hojas de cálculo"
+      ]
+    },
+    {
+      "name": "Manejó de plataformas internet & marketing digital",
+      "area": "Google Analytics | GoogleAdwords | SEO | WordPress | Blogger | Redes sociales",
+      "keywords": [
+        "Análisis web", "Publicidad", "Optimización de motores de búsqueda", "Blogs", "Gestión de contenidos", "Marketing en redes sociales", "Plataforma de blogs"
+      ]
+    },
+    {
+      "name": "Habilidades blandas",
+      "area": "Trabajo en Equipo | Organización y gestión de tiempo | Adaptabilidad | Facilidad de resolver problemas | Planificacion | Capacidad de aprendizaje | Comunicación efectiva | Capacidad analítica",
+      "keywords": [
+        "Cooperación laboral", "Gestión de proyectos", "Flexibilidad", "Resolución de problemas", "Planificación de proyectos", "Aprendizaje continuo", "Flexibilidad laboral", "Organización personal", "Solución de problemas", "Coordinación de actividades", "Adaptación al conocimiento", "Expresión clara", "Pensamiento analítico"
+      ]
+    },
+    {
+      "name": "Idiomas:",
+      "area": "Español (Nativo) | Inglés (Tecnico)",
+      "keywords": [
+        "Comunicación fluida", "Escritura", "Lectura", "Comprensión", "Vocabulario técnico"
+      ]
+    }
+    
+  ],
+  "course": [
+    {
+    "name": "Curso de Tecnicas Basicas en Programacion",
+    "date": "2024/01/20",
+    "startDate": "2024-01-20",
+    "endDate": "2024-03-16",
+    "institution": [
+        "Centro Educativo Logros"
+      ],
+    "url": "https://centroeducativologros.com.ve/"
+  }
+],
+  "projects": [
+    {
+      "name": "TaiyakiAnime",
+      "isActive": true,
+      "description": "TaiyakiAnime es un proyecto personal que lo construí por fanatismo de consumir animación japonesa y poder ofrecer una interfaz de usuario intuitiva y fácil de utilizar.",
+      "highlights": [
+        "Entretenimiento",
+        "En desarrollo"
+      ],
+      "url": ""
+    }
+  ]
+}
