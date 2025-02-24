@@ -6,14 +6,14 @@ import { competences } from "@cv";
 <Section title="Competencias">
   <ul>
     {
-      competences.map(({ name, area }) => {
+      competences.map(({ name, area, isActive }) => {
         return (
           <li>
             <article>
               <header>
                 <div>
                   <h3>
-                    <span>•</span>
+                    {isActive && <span>•</span>}
                     {name}
                   </h3>
                 </div>
@@ -49,6 +49,11 @@ import { competences } from "@cv";
     */
   }
 
-  p {
+  article h3 span {
+    color: rgb(31, 185, 0);
+    animation-name: flicker;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+    animation-iteration-count: infinite;
   }
 </style>
